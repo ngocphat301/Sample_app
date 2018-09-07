@@ -2,3 +2,4 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
+//= repuire bootstrap

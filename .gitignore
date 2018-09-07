@@ -32,3 +32,4 @@
 master.key
 credentials.yml.enc
 database.yml
+/test
