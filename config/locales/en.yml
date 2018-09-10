@@ -7,6 +7,7 @@ en:
   name_link: "Link nè thí chủ"
   sample: "sample app"
   login: "login"
+
   static_pages:
     home:
       home_h: "Welcome to the Sample App"
@@ -34,6 +35,5 @@ en:
     footer:
       michale: "Michael Hartl"
       news: "News"
-      by: "by"
   helper:
     app_base_title: "Ruby on Rails Tutorial Sample App"
