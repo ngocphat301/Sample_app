@@ -1,0 +1,12 @@
+<footer class="footer">
+  <small>
+    <%= link_to t("name_link"), Settings.footer.footer_link%> <%= t ".ror" %>
+  </small>
+  <nav>
+    <ul>
+      <li><%= link_to t(".about"), about_path %></li>
+      <li><%= link_to t(".contact"), contact_path %></li>
+      <li><%= link_to t("name_link"), Settings.footer.new_link %> </li>
+    </ul>
+  </nav>
+</footer>

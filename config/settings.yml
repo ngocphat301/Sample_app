@@ -1,6 +1,12 @@
- home:
-   home_link: "http://www.railstutorial.org/"
- help:
-   help_link: "http://www.railstutorial.org/help"
- about:
-   about_link: "http://www.railstutorial.org/about"
+ror_link: http://www.railstutorial.org/"
+
+help:
+  help_link: "http://www.railstutorial.org/help"
+about:
+  about_link: "http://www.railstutorial.org/about"
+footer:
+  footer_link: "http://www.railstutorial.org/"
+  michae_link: "http://www.michaelhartl.com/"
+  new_link: "http://news.railstutorial.org/"
+contact:
+  contact: "http://www.railstutorial.org/contact"
