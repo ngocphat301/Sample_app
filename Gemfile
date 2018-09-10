@@ -12,6 +12,7 @@ gem "uglifier", ">= 1.3.0"
 gem "bootsnap", ">= 1.1.0", require: false
 gem "coffee-rails", "~> 4.2"
 gem "jbuilder", "~> 2.5"
+gem "jquery-rails", "~> 4.3", ">= 4.3.3"
 gem "sqlite3"
 gem "turbolinks", "~> 5"
 group :development, :test do
