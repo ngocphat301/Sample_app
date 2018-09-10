@@ -6,13 +6,9 @@ en:
   static_pages:
     home:
       home_h: "Sample App"
-      home_page: "This is the home page for the"
-      ror: "Ruby on Rails Tutorial"
       link_text: "oke"
     about:
-      about_h: "About"
-      about_page: "This is the home page for the"
-      ror: "Ruby on Rails Tutorial"
+      about_h: "About Me"
       link_text: "oke"
     help:
       help_get: "Get help on the Ruby on Rails Tutorial at the"
@@ -21,6 +17,7 @@ en:
     contact:
       contact: "Contact"
       contact_ror: "Contact the Ruby on Rails Tutorial about the sample app at the"
-      contact_text: "http://www.railstutorial.org/help"
+      contact_text: "http://www.railstutorial.org/contact"
+  layout:  
     application:
       base_title: "Ruby on Rails Tutorial Sample App"
