@@ -1,0 +1,6 @@
+ home:
+   home_link: "http://www.railstutorial.org/"
+ help:
+   help_link: "http://www.railstutorial.org/help"
+ about:
+   about_link: "http://www.railstutorial.org/about"
