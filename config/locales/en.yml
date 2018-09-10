@@ -3,11 +3,13 @@ en:
   title_help: "Help"
   title_about: "About"
   title_contact: "Contact"
-  title_signup: "Sign Up"
+  title_signup: "SignUp"
+
+  account: "Account"
   ror: "Ruby on Rails Tutorial"
   name_link: "Link nè thí chủ"
   sample: "sample app"
-  login: "login"
+  login: "Login"
 
   static_pages:
     home:
@@ -40,10 +42,24 @@ en:
   controllers:
     users_controller:
       wellcome: "wellcome to sample app"
+      success: "Welcome to the Sample App!"
+      mess: "error"
+    sessions_controller:
+      invalid: "Invalid email/password combination"
   helper:
     app_base_title: "Ruby on Rails Tutorial Sample App"
   users:
+    user: "user"
     new:
       sign_up: "Sign Up"
       creat_accout: "Create my account"
       confirmation: "Confirmation"
+  sessions:
+    new_sign: "Sign up now!"
+    new_user: "New user?"
+
+      
+  setting: "Settings"
+  profile: "Profile"
+  log_out: "Log Out"
+  log_in: "Log In"
