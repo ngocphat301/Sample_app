@@ -3,6 +3,7 @@ en:
   title_help: "Help"
   title_about: "About"
   title_contact: "Contact"
+  title_signup: "Sign Up"
   ror: "Ruby on Rails Tutorial"
   name_link: "Link nè thí chủ"
   sample: "sample app"
@@ -35,5 +36,14 @@ en:
     footer:
       michale: "Michael Hartl"
       news: "News"
+      by: "by" 
+  controllers:
+    users_controller:
+      wellcome: "wellcome to sample app"
   helper:
     app_base_title: "Ruby on Rails Tutorial Sample App"
+  users:
+    new:
+      sign_up: "Sign Up"
+      creat_accout: "Create my account"
+      confirmation: "Confirmation"
