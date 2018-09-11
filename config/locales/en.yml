@@ -3,14 +3,24 @@ en:
   title_help: "Help"
   title_about: "About"
   title_contact: "Contact"
+  ror: "Ruby on Rails Tutorial"
+  name_link: "Link nè thí chủ"
+  sample: "sample app"
+  login: "login"
   static_pages:
     home:
-      home_h: "Sample App"
+      home_h: "Welcome to the Sample App"
       link_text: "oke"
+      home_page: "This is the home page for the"
+      home_sign: "Sign up now!"
+      home_alt: "Rails logo"
+      home: "home"
     about:
+      about: "About"
       about_h: "About Me"
       link_text: "oke"
     help:
+      help: "help"
       help_get: "Get help on the Ruby on Rails Tutorial at the"
       help_ror: "Rails Tutorial help section"
       help_text: "http://www.railstutorial.org/help"
@@ -21,3 +31,9 @@ en:
   layout:  
     application:
       base_title: "Ruby on Rails Tutorial Sample App"
+    footer:
+      michale: "Michael Hartl"
+      news: "News"
+      by: "by"
+  helper:
+    app_base_title: "Ruby on Rails Tutorial Sample App"
