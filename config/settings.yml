@@ -10,3 +10,6 @@ footer:
   new_link: "http://news.railstutorial.org/"
 contact:
   contact: "http://www.railstutorial.org/contact"
+user:
+  name_maximum: 50
+  email_maximum: 255
